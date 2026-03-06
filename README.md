@@ -10,7 +10,7 @@ A basic calculator built using **HTML, CSS, and JavaScript** as part of my JavaS
 
 ## Live Demo
 
-https://YOUR-USERNAME.github.io/REPO-NAME/
+https://hajcodes.github.io/Calculator/
 
 ## Project Structure
 
