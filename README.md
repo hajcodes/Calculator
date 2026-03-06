@@ -14,12 +14,12 @@ https://hajcodes.github.io/Calculator/
 
 ## Project Structure
 
-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+    calculator/
+    │
+    ├── index.html
+    ├── style.css
+    ├── script.js
+    └── README.md
 
 ## How to Run
 
