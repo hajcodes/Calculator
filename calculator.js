@@ -11,13 +11,13 @@ function appendValue(value) {
     display.value += value;
 }
 
-function backspace() {
+function clearDisplay() {
     display.value = '';
 }
-function clearDisplay() {
+function backspace() {
     display.value = display.value.slice(0, -1);
 }
-clearDisplay
+
 function calculate() {
     let lastChar = display.value.slice(-1);
 
